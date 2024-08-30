@@ -1,0 +1,1 @@
+My home decor website frontend is a responsive and visually appealing online store built with HTML, JavaScript, and CSS. It features a home page, about us page and different pages for home decor items shopping cart, and responsive design.
